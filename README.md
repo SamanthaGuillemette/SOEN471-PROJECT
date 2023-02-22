@@ -35,7 +35,7 @@ Since we will be doing a sentiment analysis, we know that we will need to not on
 | Naive Bayes  | ``sklearn.naive_bayes.MultinomialNB``  |  Very widely used in NLP tasks, one of them being sentiment analysis. Allows for faster computation time than other models, as well relatively low amount of training required. We would also use this model with the Bag of Words Model (BOW) to better improve our numbers at the end.                 |
 | Random Forest Algorithm| ``sklearn.ensemble.RandomForestClassifier`` | It's widely used for regression and classification purposes. In order to do that, the algorithm works by constructing multiple training trees which would then allow the data to be classified. In this case, it will be classified using regression which gives a score of similarity between the text in question and those that were previously identified to having depression and/or suicidal thoughts in the dataset.  |
 |   Logistic Regression   | ``sklearn.linear_model.LogisticRegression``   |     The algorithm estimates the probability of the binary output from a set of independent variables. Since the outcome is a probability, it is bound between 1 and 0. This is useful when the dependent variable is categorical, suicidal (1) or non-suicidal (0).        |
-|     |    |           |
+| Long short-term memory (LSTM) | ``tf.keras.layers.LSTM`` | This type of recurrent neural network (RNN) has been successfully applied to NLP. LSTM retains a long-term memory from previous data anaylized, thus in the context of sentiment anaylsis there is a better understanding of the overall context of the text.          |
 
 
 
