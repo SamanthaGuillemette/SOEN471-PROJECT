@@ -23,6 +23,9 @@ The dataset that we have chosen is [Suicide and Depression Detection](https://ww
 
 The data will be preprocessed in order to remove noise in the text region. Such noise includes stop words, email adresses, special characters. Moreover, all text will be transformed to lowercase and split into words based on the space character. Furthermore, lemmatization will be applied to the words to better group them later.
 
+For the pre-processing, we will also be using some of the librairies from SKLearn such as ``sklearn.preprocessing.LabelEncoder`` to fit our training and test data once we have removed the special characters. We will also be using the ``neattext`` package itself, which will aid to remove special characters and stop words.
+
+
 # 4. Materials and Algorithms
 
 
