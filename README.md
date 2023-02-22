@@ -21,6 +21,7 @@ The dataset that we have chosen is [Suicide and Depression Detection](https://ww
 
 # 3. Data Preprocessing
 
+The data will be preprocessed in order to remove noise in the text region. Such noise includes stop words, email adresses, special characters. Moreover, all text will be transformed to lowercase and split into words based on the space character. Furthermore, lemmatization will be applied to the words to better group them later.
 
 # 4. Materials and Algorithms
 
