@@ -33,7 +33,7 @@ Since we will be doing a sentiment analysis, we know that we will need to not on
 | Model             | Algorithm to use | Why we feel it would work for our project?                 |
 | -------------------- | ---------- | ------------------------------------------------------------- |
 | Naive Bayes  | ``sklearn.naive_bayes.MultinomialNB``  |  Very widely used in NLP tasks, one of them being sentiment analysis. Allows for faster computation time than other models, as well relatively low amount of training required. We would also use this model with the Bag of Words Model (BOW) to better improve our numbers at the end.                 |
-|  |    |  |
+| Random Forest Algorithm| ``sklearn.ensemble.RandomForestClassifier`` | It's widely used for regression and classification purposes. In order to do that, the algorithm works by constructing multiple training trees which would then allow the data to be classified. In this case, it will be classified using regression which gives a score of similarity between the text in question and those that were previously identified to having depression and/or suicidal thoughts in the dataset.  |
 |      |    |             |
 |     |    |           |
 
