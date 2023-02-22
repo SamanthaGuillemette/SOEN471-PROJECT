@@ -28,7 +28,15 @@ For the pre-processing, we will also be using some of the librairies from SKLear
 
 # 4. Materials and Algorithms
 
-Since we will be doing a sentiment analysis, we know that we will need to not only come up with good classification models, but also we would need to come up with alternatives as well. 
+Since we will be doing a sentiment analysis, we know that we will need to not only come up with good classification models, but also we would need to come up with alternatives as well. The two main ones that we will choose will be highlighted in bold. 
+
+| Model             | Algorithm to use | Why we feel it would work for our project?                 |
+| -------------------- | ---------- | ------------------------------------------------------------- |
+|   |   |                        |
+|  |    |  |
+|      |    |             |
+|     |    |           |
+
 
 
 # 5. Team Members
