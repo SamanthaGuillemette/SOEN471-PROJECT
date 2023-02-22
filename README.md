@@ -32,7 +32,7 @@ Since we will be doing a sentiment analysis, we know that we will need to not on
 
 | Model             | Algorithm to use | Why we feel it would work for our project?                 |
 | -------------------- | ---------- | ------------------------------------------------------------- |
-| Naive Bayes  |   |                        |
+| Naive Bayes  | ``sklearn.naive_bayes.MultinomialNB``  |  Very widely used in NLP tasks, one of them being sentiment analysis. Allows for faster computation time than other models, as well relatively low amount of training required. We would also use this model with the Bag of Words Model (BOW) to better improve our numbers at the end.                 |
 |  |    |  |
 |      |    |             |
 |     |    |           |
