@@ -32,7 +32,7 @@ Since we will be doing a sentiment analysis, we know that we will need to not on
 
 | Model             | Algorithm to use | Why we feel it would work for our project?                 |
 | -------------------- | ---------- | ------------------------------------------------------------- |
-|   |   |                        |
+| Naive Bayes  |   |                        |
 |  |    |  |
 |      |    |             |
 |     |    |           |
