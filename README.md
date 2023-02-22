@@ -1,4 +1,4 @@
-# SOEN471-PROJECT - Suicide and Depression Sentiment Analysis
+# SOEN471-PROJECT - Suicide and Depression Sentiment Analysis - Team 13
 
 ## Abstract
 
