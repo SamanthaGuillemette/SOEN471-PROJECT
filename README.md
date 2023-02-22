@@ -30,5 +30,5 @@ The dataset that we have chosen is [Suicide and Depression Detection](https://ww
 | -------------------- | ---------- | ------------------------------------------------------------- |
 | Mohammad Ali Zahir   | 40077619   | [AliZ786](https://github.com/AliZ786)                         |
 | Samantha Guillemette | 26609198   | [SamanthaGuillemette](https://github.com/SamanthaGuillemette) |
-| Marita Brichan        | 40138194   | [maritabrichan]((https://github.com/maritabrichan)|
-| Souvik Polol Alam     | 27145640   | [LucasCatchlove](https://github.com/LucasCatchlove)           |
+| Marita Brichan        | 40138194   | [maritabrichan](https://github.com/maritabrichan)            |
+| Souvik Polol Alam     | 27145640   | [LucasCatchlove](https://github.com/LucasCatchlove)          |
