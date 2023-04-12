@@ -48,3 +48,6 @@ Since we will be doing a sentiment analysis, we know that we will need to not on
 | Samantha Guillemette | 26609198   | [SamanthaGuillemette](https://github.com/SamanthaGuillemette) |
 | Marita Brichan       | 40138194   | [maritabrichan](https://github.com/maritabrichan)            |
 | Souvik Polol Alam    | 40044092   | [Checkz97](https://github.com/Checkz97)          |
+
+# 6. Presentation Slides
+### [Link to the slides](https://docs.google.com/presentation/d/1-NyPbjZ2oDabuDr8Y1fpIdkZFN4VMQawfb6UM8jtqr0/edit?usp=sharing)
